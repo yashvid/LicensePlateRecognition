@@ -2,13 +2,11 @@
 ## Demo
 
 
-https://raw.githubusercontent.com/yashvid/LicensePlateRecognition/main/assets/out(3).mp4
-https://github.com/yashvid/LicensePlateRecognition/blob/main/assets/out%20(3)
 
-<figure class="video_container">
-  <iframe src="assets/out(3).mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+https://github.com/user-attachments/assets/3cb5ae1b-7260-4f9a-92a6-5db9f1e8ff7f
+
+
+
 
 ## Data
 
