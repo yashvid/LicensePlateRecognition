@@ -2,7 +2,7 @@
 ## Demo
 
 
-[![Watch the video]()](https://raw.githubusercontent.com/yashvid/LicensePlateRecognition/main/assets/out.mp4)
+https://raw.githubusercontent.com/yashvid/LicensePlateRecognition/main/assets/out(3).mp4
 
 
 ## Data
