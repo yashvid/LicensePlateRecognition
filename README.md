@@ -3,7 +3,10 @@
 
 
 https://raw.githubusercontent.com/yashvid/LicensePlateRecognition/main/assets/out(3).mp4
-
+<figure class="video_container">
+  <iframe src="assets/out(3).mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
 
 ## Data
 
