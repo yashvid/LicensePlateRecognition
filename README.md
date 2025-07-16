@@ -2,7 +2,7 @@
 ## Demo
 
 
-https://github.com/yashvid/LicensePlateRecognition/blob/main/assets/out.mp4)
+[https://github.com/yashvid/LicensePlateRecognition/blob/main/assets/out.mp4]
 
 
 
